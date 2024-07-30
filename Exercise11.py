@@ -3,11 +3,3 @@
 
 '''
 
-my_dict = {'data1':5,'data2':-5,'data3':3}
-
-total = 1
-
-for key,value in my_dict.items():
-    total *= value
-
-print(total)

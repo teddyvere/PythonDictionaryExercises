@@ -5,12 +5,3 @@ Sample Dictionary ( n = 5) :
 Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 
 '''
-
-dict1 = {}
-
-n = int(input("Please enter a number : "))
-
-for index in range(1,n+1):
-    dict1[index] = index**2
-
-print(dict1)

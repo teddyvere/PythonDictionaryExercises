@@ -4,7 +4,3 @@
 dict1 = {}
 dict2 = {1:5}
 
-if(not dict1):
-    print("The dictionary is empty.")
-else:
-    print("The dictionary is not empty.")

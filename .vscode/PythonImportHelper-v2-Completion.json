@@ -1,0 +1,137 @@
+[
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "Exercise10",
+        "description": "Exercise10",
+        "peekOfCode": "dict1 = {1:5,2:4,3:6,4:8,5:12}",
+        "detail": "Exercise10",
+        "documentation": {}
+    },
+    {
+        "label": "my_dict",
+        "kind": 5,
+        "importPath": "Exercise12",
+        "description": "Exercise12",
+        "peekOfCode": "my_dict = {\"ali\":1,\"veli\":2,\"isa\":3,\"musa\":4}",
+        "detail": "Exercise12",
+        "documentation": {}
+    },
+    {
+        "label": "keys",
+        "kind": 5,
+        "importPath": "Exercise13",
+        "description": "Exercise13",
+        "peekOfCode": "keys = ['red', 'green', 'blue']\nvalues = ['#FF0000','#008000', '#0000FF']",
+        "detail": "Exercise13",
+        "documentation": {}
+    },
+    {
+        "label": "values",
+        "kind": 5,
+        "importPath": "Exercise13",
+        "description": "Exercise13",
+        "peekOfCode": "values = ['#FF0000','#008000', '#0000FF']",
+        "detail": "Exercise13",
+        "documentation": {}
+    },
+    {
+        "label": "student_data",
+        "kind": 5,
+        "importPath": "Exercise17",
+        "description": "Exercise17",
+        "peekOfCode": "student_data = {'id1': \n   {'name': ['Sara'], \n    'class': ['V'], \n    'subject_integration': ['english, math, science']\n   },\n 'id2': \n  {'name': ['David'], \n    'class': ['V'], \n    'subject_integration': ['english, math, science']\n   },",
+        "detail": "Exercise17",
+        "documentation": {}
+    },
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "Exercise18",
+        "description": "Exercise18",
+        "peekOfCode": "dict1 = {}\ndict2 = {1:5}",
+        "detail": "Exercise18",
+        "documentation": {}
+    },
+    {
+        "label": "dict2",
+        "kind": 5,
+        "importPath": "Exercise18",
+        "description": "Exercise18",
+        "peekOfCode": "dict2 = {1:5}",
+        "detail": "Exercise18",
+        "documentation": {}
+    },
+    {
+        "label": "d1",
+        "kind": 5,
+        "importPath": "Exercise19",
+        "description": "Exercise19",
+        "peekOfCode": "d1 = {'a': 100, 'b': 200, 'c':300}\nd2 = {'a': 300, 'b': 200, 'd':400}\nSample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})\n'''",
+        "detail": "Exercise19",
+        "documentation": {}
+    },
+    {
+        "label": "d2",
+        "kind": 5,
+        "importPath": "Exercise19",
+        "description": "Exercise19",
+        "peekOfCode": "d2 = {'a': 300, 'b': 200, 'd':400}\nSample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})\n'''",
+        "detail": "Exercise19",
+        "documentation": {}
+    },
+    {
+        "label": "L",
+        "kind": 5,
+        "importPath": "Exercise20",
+        "description": "Exercise20",
+        "peekOfCode": "L = [{\"V\":\"S001\"}, {\"V\": \"S002\"}, {\"VI\": \"S001\"}, {\"VI\": \"S005\"}, {\"VII\":\"S005\"}, {\"V\":\"S009\"},{\"VIII\":\"S007\"}]",
+        "detail": "Exercise20",
+        "documentation": {}
+    },
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "Exercise4",
+        "description": "Exercise4",
+        "peekOfCode": "dict1 = {1:5,2:4,3:10,4:20,5:1}",
+        "detail": "Exercise4",
+        "documentation": {}
+    },
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "Exercise5",
+        "description": "Exercise5",
+        "peekOfCode": "dict1 = {1:5,2:4,3:10,4:20,5:1}",
+        "detail": "Exercise5",
+        "documentation": {}
+    },
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "Exercise8",
+        "description": "Exercise8",
+        "peekOfCode": "dict1 = {1:2,3:5,5:7,7:9}\ndict2 = {2:4,4:6,6:8,8:10}",
+        "detail": "Exercise8",
+        "documentation": {}
+    },
+    {
+        "label": "dict2",
+        "kind": 5,
+        "importPath": "Exercise8",
+        "description": "Exercise8",
+        "peekOfCode": "dict2 = {2:4,4:6,6:8,8:10}",
+        "detail": "Exercise8",
+        "documentation": {}
+    },
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "Exercise9",
+        "description": "Exercise9",
+        "peekOfCode": "dict1 = {1:5,2:4,3:6,4:8,5:12}",
+        "detail": "Exercise9",
+        "documentation": {}
+    }
+]
